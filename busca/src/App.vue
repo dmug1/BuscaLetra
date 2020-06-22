@@ -6,7 +6,11 @@
       color="amber"
     >
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+<<<<<<< HEAD
       <span class="title ml-3 mr-5">Busca Letra</span>
+=======
+      <span class="title ml-3 mr-5">Google&nbsp;<span class="font-weight-light">Keep</span></span>
+>>>>>>> master
       <v-text-field
         solo-inverted
         flat
